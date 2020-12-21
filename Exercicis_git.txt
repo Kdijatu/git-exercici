@@ -1,0 +1,2 @@
+Aquest és el fitxer per a realitzar els exercicis de Git
+ git commit -m "primer commit"
