@@ -3,3 +3,6 @@ Aquest és el fitxer per a realitzar els exercicis de Git
 
 2. Treballar amb branques:
 a. Crea una branca anomenada “branch1”
+b. Modifica el text del fitxer des d’aquesta branca
+c. Afegeix canvis “add” i realitza l’acció “Commit” i “Push” dels canvis. En aquest moment hauries de
+veure dues branques al GitHub.
